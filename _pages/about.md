@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="display: flex; align-items: start;">
-    <div style="flex-grow: 1; padding-right: 20px;">
+<div style="display: flex; align-items: start; margin: 20px;">
+    <div style="flex-grow: 1; padding-right: 40px;">
         💻 I'm currently a first year Master's student in Data Science @ Aalto University, Finland<br>
         🧑‍🎓 I received my Bachelor Degree in Computer Science @ Ho Chi Minh City University of Technology, Vietnam<br>
         💼 Former AI Engineer @ Quy Nhon AI Research and Application Center, Vietnam<br>
@@ -20,6 +20,7 @@ redirect_from:
         <img src="/images/pf_img_2.png" alt="Illustration of the harmonic living of AI and human" style="width: 300px;">
     </div>
 </div>
+
 
 # Selected Experience
 ======
