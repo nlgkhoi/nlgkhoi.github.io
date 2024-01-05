@@ -9,12 +9,18 @@ Capstone project **Detection, Recognition, and Extraction of Table Structure Dat
 The core problems tackled include the development of a deep learning system for detecting and recognizing tables in documents and implementing a parameter pruning method for Transformer-based models. This approach significantly reduces the number of parameters without sacrificing model accuracy, leading to a more efficient and effective processing pipeline.
 
 <div style="text-align: center;">
-    <img src="/images/portfolio_1_pipeline.png" alt="Alternative Text" style="width: 60%;">
+    <img src="/images/port_1_survey.png" alt="Alternative Text" style="width: 90%;">
     <br>
-    <em>Figure 1: Table OCR Pipeline</em>
+    <em>Figure 1: Table Extraction Tasks Survey</em>
 </div>
 
-Experimental evaluations of various Table Detection (TD) models were conducted, utilizing both public and private datasets. These datasets included manually labeled financial statements, receipts, and inventory management tables, among others. Evaluation metrics such as recall, precision, and F1-score across different Intersection over Union (IoU) thresholds were used.
+<div style="text-align: center;">
+    <img src="/images/port_1_pipeline.jpg" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 2: Table OCR pipeline</em>
+</div>
+
+Experimental evaluations of various Table Detection (TD) and Table Structure Recognition (TSR) models were conducted, utilizing both public and private datasets. These datasets included manually labeled financial statements, receipts, and inventory management tables, among others. Evaluation metrics such as recall, precision, F1-score across different Intersection over Union (IoU) thresholds, and [GriTS](https://arxiv.org/abs/2203.12555) were used.
 
 Key findings from these experiments include:
 - CDeCNet achieved the highest precision and F1-score at all thresholds.
@@ -25,5 +31,24 @@ The CDeCNet model, despite its high precision, had a significantly larger number
 
 A standout achievement of this project was the development of a pruning method for Transformer-based models. This method outperformed traditional uniform pruning techniques, reducing the model's parameters up to 66% while only experiencing a minimal drop in performance (2% - 4.3% in AP and AR; 1% in GriTS_Top).
 
+## Experimental Result
+
+<div style="text-align: center;">
+    <img src="/images/TSR_results.png" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 3: Pruned TSR Model Experimental Results</em>
+</div>
+
+<div style="text-align: center;">
+    <img src="/images/TD_results.png" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 4: Pruned TD Model Experimental Results</em>
+</div>
+
+<div style="text-align: center;">
+    <img src="/images/Speedup.png" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 5: Model Speedup Measurement</em>
+</div>
 
 Overall, the project successfully built a modular, lightweight pipeline for various table types and domains, significantly advancing the field of table OCR. It laid the groundwork for future research, particularly in improving pre- and post-processing methods and further developing pruning techniques for Transformer-based models.
