@@ -32,4 +32,8 @@ See more: [Here](/portfolio/portfolio-1/)
 Keywords: *table detection, table structure recognition, OCR, computer vision, transformer-based model, machine learning*
 
 ## Vietnamese Sign Language Translation Application
+A project aimed at empowering the hearing impaired through an AI-driven device that translates sign language into text and speech. Features a portable camera module and an efficient mobile application, achieving significant recognition accuracy and making an impactful contribution to the community.<br/><img src='/images/demo_sos.gif' style='width: 60%;'>
 
+See more: [Here](/portfolio/portfolio-2/)
+
+Keywords: *sign language translation, transformer, computer vision, multi-modal modelling, mediapipe, IoT, machine learning, vietnamese*
