@@ -1,6 +1,6 @@
 ---
 title: "Table Detection & Structure Recognition"
-excerpt: "An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.jpg' style='width: 60%;'>"
+excerpt: "An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.png' style='width: 60%;'>"
 collection: portfolio
 ---
 
