@@ -37,3 +37,5 @@ A project aimed at empowering the hearing impaired through an AI-driven device t
 See more: [Here](/portfolio/portfolio-2/)
 
 Keywords: *sign language translation, transformer, computer vision, multi-modal modelling, mediapipe, IoT, machine learning, vietnamese*
+
+## 
