@@ -4,6 +4,8 @@ excerpt: "An innovative approach to OCR of tables in documents, focusing on Tabl
 collection: portfolio
 ---
 
+PDF: [Download here](/data/Final Thesis_Huan_Khoi.pdf)
+
 Capstone project **"Detection, Recognition, and Extraction of Table Structure Data"**, supervised by Assoc. Prof. Quản Thành Thơ Ph.D. and Mr. Băng Ngọc Bảo Tâm M.Eng., carried out by students Nguyễn Luật Gia Khôi and Phạm Bùi Minh Huân at the Ho Chi Minh City University of Technology. The project addresses the growing need for efficient document digitization, particularly focusing on the extraction of structured table data from PDFs or images into spreadsheets.
 
 The core problems tackled include the development of a deep learning system for detecting and recognizing tables in documents and implementing a parameter pruning method for Transformer-based models. This approach significantly reduces the number of parameters without sacrificing model accuracy, leading to a more efficient and effective processing pipeline.
