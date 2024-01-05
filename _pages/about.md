@@ -11,10 +11,10 @@ redirect_from:
     <div style="flex-grow: 1; padding-right: 40px; line-height: 1.6;">
         💻 I'm currently a first year Master's student in Data Science @ Aalto University, Finland<br><br>
         🧑‍🎓 I received my Bachelor Degree in Computer Science @ Ho Chi Minh City University of Technology, Vietnam<br><br>
-        💼 Former AI Engineer @ Quy Nhon AI Research and Application Center, Vietnam<br>
-        🦾 My interest lies in Computer Vision, Ethical AI, and Natural Language Processing<br>
-        🎼 I write music in my free-time. My genres are Rap and R&B.<br>
-        📖 "Embracing Kaizen mindset in any aspect of life"
+        💼 Former AI Engineer @ Quy Nhon AI Research and Application Center, Vietnam<br><br>
+        🦾 My interest lies in Computer Vision, Ethical AI, and Natural Language Processing<br><br>
+        🎼 I write music in my free-time. My genres are Rap and R&B.<br><br>
+        📖 "Embracing Kaizen mindset in any aspect of life"<br><br>
     </div>
     <div>
         <img src="/images/pf_img_2.png" alt="Illustration of the harmonic living of AI and human" style="width: 400px;">
