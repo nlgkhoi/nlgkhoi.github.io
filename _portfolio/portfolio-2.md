@@ -30,7 +30,7 @@ The "Sound of Silence" project aims to facilitate communication for people with 
 ## Results:
 
 - **Portability and Efficiency**: The device stands out for its portability and efficient operation on mobile phones without the need for high-end hardware.
-- **Community Impact**: The project has garnered attention, notably from the Vĩnh Long Television and Radio Station, which collaborated with Ho Chi Minh City University of Technology and team members to publicize the product​​.
+- **Community Impact**: The project has garnered attention, notably from the THVL Television and Radio Station, which collaborated with Ho Chi Minh City University of Technology and team members to publicize the product​​.
 
 <div style="text-align: center;">
     <img src="/images/demo_sos.gif" alt="Alternative Text" style="width: 90%;">
