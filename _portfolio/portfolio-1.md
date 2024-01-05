@@ -26,5 +26,4 @@ The CDeCNet model, despite its high precision, had a significantly larger number
 A standout achievement of this project was the development of a pruning method for Transformer-based models. This method outperformed traditional uniform pruning techniques, reducing the model's parameters up to 66% while only experiencing a minimal drop in performance (2% - 4.3% in AP and AR; 1% in GriTS_Top).
 
 
-
 Overall, the project successfully built a modular, lightweight pipeline for various table types and domains, significantly advancing the field of table OCR. It laid the groundwork for future research, particularly in improving pre- and post-processing methods and further developing pruning techniques for Transformer-based models.
