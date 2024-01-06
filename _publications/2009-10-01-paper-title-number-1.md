@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Sound of Silence – Communication Support Device for the Hearing Impaired"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-01-05-sound-of-silence
+excerpt: 'This paper presents the "Sound of Silence" project, a communication support device for people with hearing impairments, using artificial intelligence and machine learning to translate sign language into text and speech.'
+date: 2024-01-05
+venue: 'Journal of AI and Social Good'
+paperurl: 'http://nlgkhoi.github.io/files/SOS_paper.pdf'
+citation: 'Nguyễn Luật Gia Khôi, Võ Ngọc Sang, Ho Trí Kháng, Phạm Bùi Minh Huân, Cao Khánh Gia Hy, Trần Vũ Hà Nhi, Võ Thị Hoàng Quanh, Huỳnh Nhật Huy, Quản Thành Thơ, Võ Thanh Hằng. (2024). "Sound of Silence – Communication Support Device for the Hearing Impaired." <i>Journal of AI and Social Good</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents the "Sound of Silence" project, a communication support device for people with hearing impairments. It utilizes artificial intelligence and machine learning technologies to translate sign language into text and speech, making communication easier for those who are hearing impaired. The project aims to overcome the limitations of current sign language systems by developing a mobile application integrated with AI technology. This solution ensures quick recognition of sign language gestures with high accuracy and provides an accessible way for the hearing impaired to communicate with others. The project is ongoing, focusing on improving the efficiency and accuracy of the machine learning model.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://nlgkhoi.github.io/files/SOS_paper.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nguyễn Luật Gia Khôi, Võ Ngọc Sang, Ho Trí Kháng, Phạm Bùi Minh Huân, Cao Khánh Gia Hy, Trần Vũ Hà Nhi, Võ Thị Hoàng Quanh, Huỳnh Nhật Huy, Quản Thành Thơ, Võ Thanh Hằng. (2024). "Sound of Silence – Communication Support Device for the Hearing Impaired." <i>Journal of AI and Social Good</i>.
