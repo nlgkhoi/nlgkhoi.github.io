@@ -58,3 +58,22 @@ _Nov 2020 - Nov 2022, Ho Chi Minh City, Vietnam_
 - Specialized in researching and proposing CV solutions including watermark removal, contract auto-filling, and existing scene detection
 - Implemented and tested deep learning models.
 - Dockerized and implemented RESTful APIs.
+
+# Recommendations
+## 🎓 Assoc. Prof. Quan Thanh Tho
+_Vice Dean, Faculty of Computer Science and Engineering, HCMUT_  
+_Email: [qtthohcmut.edu.vn](mailto:qtthohcmut.edu.vn)_  
+> "Assoc. Prof. Quan Thanh Tho, a distinguished faculty member at HCMUT, is well-versed in formal methods, program analysis/verification, the Semantic Web, machine learning/data mining, and intelligent systems. His academic journey spans a B.Eng. in Information Technology from HCMUT and a Ph.D. from Nanyang Technological University, Singapore."  
+> **– Assoc. Prof. Quan Thanh Tho**
+
+## 💼 Dr. Nguyen Chi Hoang
+_AI R&D Team Leader, FPT Software Da Nang_  
+_Email: [hoangnc3@fsoft.com.vn](mailto:hoangnc3@fsoft.com.vn)_  
+> "With a rich background in Information Technology and a Ph.D. from Claude Bernard University Lyon 1, France, Dr. Nguyen Chi Hoang leads AI R&D at FPT Software Da Nang. His expertise has contributed to over 20 projects globally, focusing on AI adoption strategies, including developing predictive applications and software for stock price forecasting."  
+> **– Dr. Nguyen Chi Hoang**
+
+## 🌟 Mr. Vu Hong Chien
+_Director, Quy Nhon AI Research and Application Center, FPT Software Quy Nhon_  
+_Email: [chienvh1@fsoft.com.vn](mailto:chienvh1@fsoft.com.vn)_  
+> "Mr. Vu Hong Chien, a recognized leader in technology, was named FPT Under 35 in 2017. His career at FPT Software includes roles as Head of the FQC Department and CTO of FPT DPS, leading up to his current position as the Director of Quy Nhon AI Research and Application Center."  
+> **– Mr. Vu Hong Chien**
