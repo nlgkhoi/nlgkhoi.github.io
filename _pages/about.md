@@ -90,11 +90,11 @@ _Oct 2022 - Dec 2022_
 - Collaborated with AI experts to organize fireside chats for HCMUT students, fostering a deeper understanding of AI technologies and career opportunities.
 
 <div style="text-align: center;">
-    <img src="/images/talk_1_img_1.png" alt="Watermark Removal Example 1" style="width: 90%;">
+    <img src="/images/talk_1_img_1.png" alt="A moment from the webinar" style="width: 90%;">
     <br>
-    <img src="/images/talk_1_img_2.png" alt="Watermark Removal Example 2" style="width: 90%;">
+    <img src="/images/talk_1_img_2.png" alt="A moment from the webinar" style="width: 90%;">
     <br>
-    <img src="/images/talk_1_img_3.JPG" alt="Watermark Removal Example 3" style="width: 90%;">
+    <img src="/images/talk_1_img_3.JPG" alt="A moment from the webinar" style="width: 90%;">
     <br>
     <em>Moments from the webinar</em>
 </div>
@@ -106,11 +106,11 @@ _Feb 2022 - Mar 2022_
 - Partnered with CoderSchool to provide advanced insights into Deep Learning, enhancing the technical knowledge of attendees.
 
 <div style="text-align: center;">
-    <img src="/images/talk_2_img_1.jpg" alt="Watermark Removal Example 1" style="width: 90%;">
+    <img src="/images/talk_2_img_1.jpg" alt="A moment from the workshop" style="width: 90%;">
     <br>
-    <img src="/images/talk_2_img_2.jpg" alt="Watermark Removal Example 2" style="width: 90%;">
+    <img src="/images/talk_2_img_2.jpg" alt="A moment from the workshop" style="width: 90%;">
     <br>
-    <img src="/images/talk_2_img_3.jpg" alt="Watermark Removal Example 3" style="width: 90%;">
+    <img src="/images/talk_2_img_3.jpg" alt="A moment from the workshop" style="width: 90%;">
     <br>
     <em>Moments from the workshop</em>
 </div>
