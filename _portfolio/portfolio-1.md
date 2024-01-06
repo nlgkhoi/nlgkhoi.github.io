@@ -1,6 +1,6 @@
 ---
 title: "Table OCR pipeline with branching mechanism to handle different types of tabular documents"
-excerpt: "An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.png' style='width: 60%;'>"
+excerpt: "An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.png' style='width: 60%;'><br>See more: <a href="/portfolio/portfolio-1/">Here</a>"
 collection: portfolio
 ---
 

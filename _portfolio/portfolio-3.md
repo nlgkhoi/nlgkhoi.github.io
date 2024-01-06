@@ -1,6 +1,6 @@
 ---
 title: "Watermark Removal via Autoencoder-Based Approach"
-excerpt: "Developing an autoencoder model to effectively remove watermarks from images, addressing a key challenge in real estate image sharing.<br/><img src='/images/port_3_ex1.jpg' style='width: 60%;'><br><img src='/images/port_3_ex2.jpg' style='width: 60%;'>"
+excerpt: "Developing an autoencoder model to effectively remove watermarks from images, addressing a key challenge in real estate image sharing.<br/><img src='/images/port_3_ex1.jpg' style='width: 60%;'><br><img src='/images/port_3_ex2.jpg' style='width: 60%;'><br>See more: <a href="/portfolio/portfolio-3/">Here</a>"
 collection: portfolio
 ---
 
