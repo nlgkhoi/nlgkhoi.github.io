@@ -89,10 +89,22 @@ _Oct 2022 - Dec 2022_
 - Developed and presented content for a five-day series on Artificial Intelligence and career paths in the AI field.
 - Collaborated with AI experts to organize fireside chats for HCMUT students, fostering a deeper understanding of AI technologies and career opportunities.
 
+<div style="display: flex; justify-content: space-between;">
+    ![Image 1](/images/talk_1_img_1.png)
+    ![Image 2](/images/talk_1_img_2.png)
+    ![Image 3](/images/talk_1_img_3.JPG)
+    <figcaption>Moments from the event</figcaption>
+</div>
+
 ## 📗 Google Developer Student Club - Machine Learning Workshop
 _Technical Speaker & Academic Team Leader_  
 _Feb 2022 - Mar 2022_
 - Conducted sessions on fundamental concepts and simple algorithms in Machine Learning for HCMUT students.
 - Partnered with CoderSchool to provide advanced insights into Deep Learning, enhancing the technical knowledge of attendees.
 
-
+<div style="display: flex; justify-content: space-between;">
+    ![Image 1](/images/talk_2_img_1.jpg)
+    ![Image 2](/images/talk_2_img_2.jpg)
+    ![Image 3](/images/talk_2_img_3.jpg)
+    <figcaption>Moments from the event</figcaption>
+</div>
