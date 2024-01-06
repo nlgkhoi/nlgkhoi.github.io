@@ -41,3 +41,6 @@ Keywords: *sign language translation, transformer, computer vision, multi-modal 
 ## Watermark Removal via Autoencoder-Based Approach
 Developing an autoencoder model to effectively remove watermarks from images, addressing a key challenge in real estate image sharing.<br/><img src='/images/port_3_ex1.jpg' style='width: 60%;'><br><img src='/images/port_3_ex2.jpg' style='width: 60%;'>
 
+See more: [Here](/portfolio/portfolio-3/)
+
+Keywords: *watermark removal, autoencoder, data augmentation, computer vision, machine learning*
