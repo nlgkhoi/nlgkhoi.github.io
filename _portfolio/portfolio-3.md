@@ -12,7 +12,7 @@ In the Vietnamese real estate sector, the exchange of property images among brok
 
 - **Data Augmentation Technique**: Given the limited availability of training data, a bespoke data augmentation algorithm was developed. This algorithm artificially adds watermarks to random images, mimicking a range of variations in brightness, opacity, size, rotation, and resolution, thereby creating a realistic dataset representative of actual watermarked images.
 
-- **Autoencoder Architecture**: An advanced autoencoder model was engineered and trained on this artificially generated dataset. The objective was to enable the model to produce images devoid of watermarks, effectively 'learning' to eliminate the watermark characteristics from the input images.
+- **Autoencoder Architecture**: An advanced autoencoder model was engineered and trained on this artificially generated dataset. The objective was to enable the model to produce images devoid of watermarks, effectively `'learning'` to eliminate the watermark characteristics from the input images.
 
 <div style="text-align: center;">
     <img src="/images/port_3_pipeline.jpeg" alt="Autoencoder Architecture" style="width: 90%;">
