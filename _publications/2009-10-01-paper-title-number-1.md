@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-01-05-sound-of-silence
 excerpt: 'This paper presents the "Sound of Silence" project, a communication support device for people with hearing impairments, using artificial intelligence and machine learning to translate sign language into text and speech.'
 date: 2024-01-05
-venue: 'Journal of AI and Social Good'
+venue: 'Science and Technology Development Journal (STDJ)'
 paperurl: 'http://nlgkhoi.github.io/files/SOS_paper.pdf'
 citation: 'Nguyễn Luật Gia Khôi, Võ Ngọc Sang, Ho Trí Kháng, Phạm Bùi Minh Huân, Cao Khánh Gia Hy, Trần Vũ Hà Nhi, Võ Thị Hoàng Quanh, Huỳnh Nhật Huy, Quản Thành Thơ, Võ Thanh Hằng. (2024). "Sound of Silence – Communication Support Device for the Hearing Impaired." <i>Journal of AI and Social Good</i>.'
 ---
@@ -12,4 +12,4 @@ This paper presents the "Sound of Silence" project, a communication support devi
 
 [Download paper here](http://nlgkhoi.github.io/files/SOS_paper.pdf)
 
-Recommended citation: Nguyễn Luật Gia Khôi, Võ Ngọc Sang, Ho Trí Kháng, Phạm Bùi Minh Huân, Cao Khánh Gia Hy, Trần Vũ Hà Nhi, Võ Thị Hoàng Quanh, Huỳnh Nhật Huy, Quản Thành Thơ, Võ Thanh Hằng. (2024). "Sound of Silence – Communication Support Device for the Hearing Impaired." <i>Journal of AI and Social Good</i>.
+Recommended citation: Nguyễn Luật Gia Khôi, Võ Ngọc Sang, Ho Trí Kháng, Phạm Bùi Minh Huân, Cao Khánh Gia Hy, Trần Vũ Hà Nhi, Võ Thị Hoàng Quanh, Huỳnh Nhật Huy, Quản Thành Thơ, Võ Thanh Hằng. (2024). "Sound of Silence – Communication Support Device for the Hearing Impaired." <i>Science and Technology Development Journal (STDJ)</i>.
