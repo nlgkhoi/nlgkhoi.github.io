@@ -62,7 +62,7 @@ _Nov 2020 - Nov 2022, Ho Chi Minh City, Vietnam_
 # Recommendations
 ## 🎓 Assoc. Prof. Quan Thanh Tho
 _Vice Dean, Faculty of Computer Science and Engineering, HCMUT_  
-_Email: [qtthohcmut.edu.vn](mailto:qtthohcmut.edu.vn)_
+_Email: [qttho@hcmut.edu.vn](mailto:qttho@hcmut.edu.vn)_  
 _LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/qttho/)_
 > "Assoc. Prof. Quan Thanh Tho, a distinguished faculty member at HCMUT, is well-versed in formal methods, program analysis/verification, the Semantic Web, machine learning/data mining, and intelligent systems. His academic journey spans a B.Eng. in Information Technology from HCMUT and a Ph.D. from Nanyang Technological University, Singapore."  
 > **– Assoc. Prof. Quan Thanh Tho**
