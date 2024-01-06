@@ -24,18 +24,20 @@ redirect_from:
 
 # Selected Experience
 
-## Table OCR pipeline with branching mechanism to handle different types of tabular documents (Bachelor's Thesis)
+## Table OCR pipeline with branching mechanism to handle different types of tabular documents (Capstone Project) @ HCMUT, Vietnam
 An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.png' style='width: 60%;'>
 
 See more: [Here](/portfolio/portfolio-1/)
 
 Keywords: *table detection, table structure recognition, OCR, computer vision, transformer-based model, machine learning*
 
-## Vietnamese Sign Language Translation Application
+## Vietnamese Sign Language Translation Application @ HCMUT, Vietnam
 A project aimed at empowering the hearing impaired through an AI-driven device that translates sign language into text and speech. Features a portable camera module and an efficient mobile application, achieving significant recognition accuracy and making an impactful contribution to the community.<br/><img src='/images/demo_sos.gif' style='width: 60%;'>
 
 See more: [Here](/portfolio/portfolio-2/)
 
 Keywords: *sign language translation, transformer, computer vision, multi-modal modelling, mediapipe, IoT, machine learning, vietnamese*
 
-## 
+## Watermark Removal via Autoencoder-Based Approach
+Developing an autoencoder model to effectively remove watermarks from images, addressing a key challenge in real estate image sharing.<br/><img src='/images/port_3_ex1.jpg' style='width: 60%;'><br><img src='/images/port_3_ex2.jpg' style='width: 60%;'>
+

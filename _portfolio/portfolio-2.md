@@ -6,7 +6,7 @@ collection: portfolio
 
 PDF (in Vietnamese): [Download here](/files/SOS_paper.pdf)
 
-## Solution Idea:
+## Motivation:
 
 The "Sound of Silence" project aims to facilitate communication for people with hearing impairments through an innovative device that translates sign language into text and speech. This initiative is significant in Vietnam, where there is a substantial population with hearing difficulties but limited availability of sign language interpreters​​.
 
@@ -20,7 +20,7 @@ The "Sound of Silence" project aims to facilitate communication for people with 
 - **AI Application**: The AI system transforms sign language gestures into text and speech. It uses Google's Mediapipe for feature extraction and a deep learning model for gesture recognition. Finally, Google's Text2Speech technology converts the text into speech​​.
 
 <div style="text-align: center;">
-    <img src="/images/port_2_pipeline.jpg" alt="Alternative Text" style="width: 90%;">
+    <img src="/images/port_2_pipeline.png" alt="Alternative Text" style="width: 90%;">
     <br>
     <em>Figure 1: System Design</em>
 </div>
