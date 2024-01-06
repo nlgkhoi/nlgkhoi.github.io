@@ -1,7 +1,6 @@
 ---
 title: "Sound of Silence – Vietnamese Sign Language Translation Application"
-excerpt: "A project aimed at empowering the hearing impaired through an AI-driven device that translates sign language into text and speech. Features a portable camera module and an efficient mobile application, achieving significant recognition accuracy and making an impactful contribution to the community.<br/><img src='/images/demo_sos.gif' style='width: 60%;'><br>See more: <a href='/portfolio/portfolio-2/'>Here</a><br><p>Keywords: <em>sign language translation, transformer, computer vision, multi-modal modeling, Mediapipe, IoT, machine learning, Vietnamese</em></p>
-"
+excerpt: "A project aimed at empowering the hearing impaired through an AI-driven device that translates sign language into text and speech. Features a portable camera module and an efficient mobile application, achieving significant recognition accuracy and making an impactful contribution to the community.<br/><img src='/images/demo_sos.gif' style='width: 60%;'><br>See more: <a href='/portfolio/portfolio-2/'>Here</a><br>Keywords: <em>sign language translation, transformer, computer vision, multi-modal modeling, Mediapipe, IoT, machine learning, Vietnamese</em>"
 collection: portfolio
 ---
 
