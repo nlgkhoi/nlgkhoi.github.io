@@ -80,3 +80,19 @@ _Email: [chienvh1@fsoft.com.vn](mailto:chienvh1@fsoft.com.vn)_
 _LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chienvh1/)_
 > "Mr. Vu Hong Chien, a recognized leader in technology, was named FPT Under 35 in 2017. His career at FPT Software includes roles as Head of the FQC Department and CTO of FPT DPS, leading up to his current position as the Director of Quy Nhon AI Research and Application Center."  
 > **– Mr. Vu Hong Chien**
+
+# 📚 Teaching and Community Contributions
+
+## Google Developer Student Club - How-to-AI Series
+_Technical Speaker & Academic Team Leader_  
+_Oct 2021 - Dec 2022_
+- Developed and presented content for a five-day series on Artificial Intelligence and career paths in the AI field.
+- Collaborated with AI experts to organize fireside chats for HCMUT students, fostering a deeper understanding of AI technologies and career opportunities.
+
+## Google Developer Student Club - Machine Learning Workshop
+_Technical Speaker & Academic Team Leader_  
+_Feb 2021 - Mar 2022_
+- Conducted sessions on fundamental concepts and simple algorithms in Machine Learning for HCMUT students.
+- Partnered with CoderSchool to provide advanced insights into Deep Learning, enhancing the technical knowledge of attendees.
+
+
