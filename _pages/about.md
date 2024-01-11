@@ -22,14 +22,14 @@ redirect_from:
 </div>
 
 # 🍳 Skills
+
 | **Programming Languages** | Python, C++ |
 | ------------------------- | ----------- |
-| **Frameworks**            | PyTorch, Tensorflow, Flask, Django, etc. |
-| **Libraries**            | NumPy, Pandas, OpenCV, Pillow, etc. |
+| **Frameworks**            | PyTorch, Tensorflow, Flask, Django etc. |
+| **Libraries**             | NumPy, Pandas, OpenCV, Pillow, etc. |
 | **Cloud**                 | AWS EC2, AWS S3 |
 | **Others**                | Docker, RabbitMQ, CI/CD pipeline |
 | **Language proficiency**  | C1 English Level |
-
 
 # 📌 Selected Projects
 ## Table OCR pipeline with branching mechanism to handle different types of tabular documents (Capstone Project) @ HCMUT, Vietnam
