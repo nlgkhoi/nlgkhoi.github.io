@@ -24,7 +24,6 @@ redirect_from:
 # 🍳 Skills
 
 | **Programming Languages** | Python, C++ |
-| ------------------------- | ----------- |
 | **Frameworks**            | PyTorch, Tensorflow, Flask, Django etc. |
 | **Libraries**             | NumPy, Pandas, OpenCV, Pillow, etc. |
 | **Cloud**                 | AWS EC2, AWS S3 |
