@@ -23,11 +23,12 @@ redirect_from:
 
 # 🍳 Skills
 
-| **Programming Languages** | Python, C++ |
-| **Frameworks**            | PyTorch, Tensorflow, Flask, Django etc. |
+| **Programming Languages** | Python (Advanced), C++ (Intermediate) |
+| **Frameworks**            | PyTorch (Advanced), Tensorflow, Flask, Django etc. |
 | **Libraries**             | NumPy, Pandas, OpenCV, Pillow, etc. |
+| **Operating Systems**     | Linux (CLI), Windows, MacOS |
 | **Cloud**                 | AWS EC2, AWS S3 |
-| **Others**                | Docker, RabbitMQ, CI/CD pipeline |
+| **Others**                | Shell script, Docker, RabbitMQ, Kafka, CI/CD pipeline |
 | **Language proficiency**  | C1 English Level |
 
 # 📌 Selected Projects
