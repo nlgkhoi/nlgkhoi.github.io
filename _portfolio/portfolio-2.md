@@ -6,7 +6,7 @@ collection: portfolio
 
 PDF (in Vietnamese): [Download here](/files/SOS_paper.pdf)
 
-Github Repo: [Download here](https://github.com/nlgkhoi/sos-full)
+Github Repo: [Here](https://github.com/nlgkhoi/sos-full)
 
 Keywords: *sign language translation, transformer, computer vision, multi-modal modelling, mediapipe, IoT, machine learning, vietnamese*
 
