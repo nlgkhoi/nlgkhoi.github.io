@@ -25,7 +25,7 @@ redirect_from:
 
 | **Programming Languages** | Python (Advanced), C++ (Intermediate) |
 | **Frameworks**            | PyTorch (Advanced), Tensorflow, Flask, Django etc. |
-| **Libraries**             | NumPy, Pandas, OpenCV, Pillow, etc. |
+| **Libraries**             | NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Pillow, etc. |
 | **Operating Systems**     | Linux (CLI), Windows, MacOS |
 | **Cloud**                 | AWS EC2, AWS S3 |
 | **Others**                | Shell script, Docker, RabbitMQ, Kafka, CI/CD pipeline |
