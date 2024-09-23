@@ -9,10 +9,10 @@ redirect_from:
 ---
 <div style="display: flex; align-items: start; margin: 20px;">
     <div style="flex-grow: 1; padding-right: 40px; line-height: 1.6;">
-        💻 I'm currently a first year Data Science Master's student @ Aalto University, Finland<br><br>
+        💻 I'm currently a 2nd year Data Science Master's student @ Aalto University, Finland and University of Twente, Netherlands<br><br>
         🧑‍🎓 I received my Bachelor Degree in Computer Science @ Ho Chi Minh City University of Technology, Vietnam<br><br>
         💼 Former AI Engineer @ Quy Nhon AI Research and Application Center, Vietnam<br><br>
-        🦾 My interest lies in Computer Vision, Ethical AI, and Natural Language Processing<br><br>
+        🦾 My interest lies in Large Language Models, Computer Vision, Natural Language Processing, and Ethical AI<br><br>
         🎼 I write music in my free-time. My genres are Rap and R&B.<br><br>
         📖 "Embracing Kaizen mindset in every aspect of life"<br><br>
     </div>
