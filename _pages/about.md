@@ -32,7 +32,7 @@ redirect_from:
 | **Language proficiency**  | C1 English Level |
 
 # 📌 Selected Projects
-## Table OCR pipeline with branching mechanism to handle different types of tabular documents (Capstone Project) @ HCMUT, Vietnam
+## Optimizing the computational efficiency of LLM training and inference through advanced parallelism techniques @ System 2 AI Oy, Finland
 Applying advanced 2D parallelism techniques, i.e., Tensor Parallelism (TP) - FSDP, to train Llama 3 and 3.1 family models on substentially longer sequence length on limited hardware capability.<br/><img src='/images/megatron-lm.png' style='width: 60%;'>
 
 See more: [Here](/portfolio/portfolio-4/)
