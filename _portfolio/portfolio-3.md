@@ -1,46 +1,58 @@
 ---
-title: "Watermark Removal via Autoencoder-Based Approach"
-excerpt: "Developing an autoencoder model to effectively remove watermarks from images, addressing a key challenge in real estate image sharing.<br/><img src='/images/port_3_ex1.jpg' style='width: 60%;'><br><img src='/images/port_3_ex2.jpg' style='width: 60%;'><br>See more: <a href='/portfolio/portfolio-3/'>Here</a><br>Keywords: <em>watermark removal, autoencoder, data augmentation, computer vision, machine learning</em>"
+title: "Table OCR pipeline with branching mechanism to handle different types of tabular documents"
+excerpt: "An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.png' style='width: 60%;'><br>See more: <a href='/portfolio/portfolio-1/'>Here</a><br>Keywords: <em>table detection, table structure recognition, OCR, computer vision, transformer-based model, machine learning</em>"
 collection: portfolio
 ---
 
-Keywords: *watermark removal, autoencoder, data augmentation, computer vision, machine learning*
+PDF: [Download here](/files/Final_Thesis_Huan_Khoi.pdf)
 
-## Introduction and Motivation:
+Keywords: *table detection, table structure recognition, OCR, computer vision, transformer-based model, machine learning*
 
-In the Vietnamese real estate sector, the exchange of property images among brokerage firms is commonplace. A recurrent issue arises when images shared retain watermarks, and due to certain constraints, obtaining watermark-free versions is not feasible. This scenario necessitates a robust technological solution capable of eradicating watermarks from images. The primary challenge lies in the diverse characteristics of these watermarks, which vary in brightness, opacity, size, rotation, and resolution, including some previously unseen versions. This complexity demands an innovative approach, as a predefined watermark dataset is unavailable.
+Capstone project **"Detection, Recognition, and Extraction of Table Structure Data"**, supervised by Assoc. Prof. Quản Thành Thơ Ph.D. and Mr. Băng Ngọc Bảo Tâm M.Eng., carried out by students Nguyễn Luật Gia Khôi and Phạm Bùi Minh Huân at the Ho Chi Minh City University of Technology. The project addresses the growing need for efficient document digitization, particularly focusing on the extraction of structured table data from PDFs or images into spreadsheets.
 
-## Technical Approach and Implementation:
-
-- **Data Augmentation Technique**: Given the limited availability of training data, a bespoke data augmentation algorithm was developed. This algorithm artificially adds watermarks to random images, mimicking a range of variations in brightness, opacity, size, rotation, and resolution, thereby creating a realistic dataset representative of actual watermarked images.
-
-- **Autoencoder Architecture**: An advanced autoencoder model was engineered and trained on this artificially generated dataset. The objective was to enable the model to produce images devoid of watermarks, effectively `'learning'` to eliminate the watermark characteristics from the input images.
+The core problems tackled include the development of a deep learning system for detecting and recognizing tables in documents and implementing a parameter pruning method for Transformer-based models. This approach significantly reduces the number of parameters without sacrificing model accuracy, leading to a more efficient and effective processing pipeline.
 
 <div style="text-align: center;">
-    <img src="/images/port_3_pipeline.jpeg" alt="Autoencoder Architecture" style="width: 90%;">
+    <img src="/images/port_1_survey.png" alt="Alternative Text" style="width: 90%;">
     <br>
-    <em>Figure 1: Autoencoder Architecture</em>
+    <em>Figure 1: Table Extraction Tasks Survey</em>
 </div>
-
-## Observations and Results:
-
-- The autoencoder displayed commendable efficacy on images where the watermarks were fully known beforehand. This includes instances where transparent versions of the watermarks were utilized in the training phase. However, the model demonstrated limitations in dealing with unseen watermarks or those for which masks were not readily available.
-
-## Future Enhancement Directions:
-
-- **Data Augmentation Expansion**: The current augmentation methodology could benefit from the incorporation of advanced generative models, such as Generative Adversarial Networks (GANs), to create indistinguishable watermarked images that closely resemble real-life scenarios.
-
-- **Autoencoder Evolution**: Exploring alternative architectures like Variational Autoencoders (VAEs) or other generative models could potentially enhance the watermark removal capabilities, offering more robust solutions to varying watermark challenges.
 
 <div style="text-align: center;">
-    <img src="/images/port_3_ex1.jpg" alt="Watermark Removal Example 1" style="width: 90%;">
+    <img src="/images/port_1_pipeline.jpg" alt="Alternative Text" style="width: 90%;">
     <br>
-    <img src="/images/port_3_ex2.jpg" alt="Watermark Removal Example 2" style="width: 90%;">
-    <br>
-    <img src="/images/port_3_ex3.jpg" alt="Watermark Removal Example 3" style="width: 90%;">
-    <br>
-    <em>Figure 2: Results of watermark removal</em>
+    <em>Figure 2: Table OCR pipeline</em>
 </div>
 
-## Summary:
-The watermark removal project represents a significant stride in addressing a specific challenge in the real estate domain. By leveraging an autoencoder-based approach, complemented by a custom data augmentation technique, the project showcases promising results in removing known watermarks. However, the model's current limitations in handling unseen watermarks highlight the need for further research and development in this area. Future enhancements, involving more sophisticated generative models and autoencoder variations, hold the potential to refine this solution, making it more versatile and effective in diverse real-world scenarios.
+Experimental evaluations of various Table Detection (TD) and Table Structure Recognition (TSR) models were conducted, utilizing both public and private datasets. These datasets included manually labeled financial statements, receipts, and inventory management tables, among others. Evaluation metrics such as recall, precision, F1-score across different Intersection over Union (IoU) thresholds, and [GriTS](https://arxiv.org/abs/2203.12555) were used.
+
+Key findings from these experiments include:
+- CDeCNet achieved the highest precision and F1-score at all thresholds.
+- DETR and CascadeTabNet also showed high precision, while Cascade Mask RCNN trained on TNCR displayed the highest recall.
+- Notably, no single model completely outperformed the others.
+
+The CDeCNet model, despite its high precision, had a significantly larger number of parameters, leading to slower inference times. In contrast, the DETR model, based on a Transformer architecture, had the smallest number of parameters and was efficient in accommodating variable numbers of objects.
+
+A standout achievement of this project was the development of a pruning method for Transformer-based models. This method outperformed traditional uniform pruning techniques, reducing the model's parameters up to 66% while only experiencing a minimal drop in performance (2% - 4.3% in AP and AR; 1% in GriTS_Top).
+
+## Experimental Result
+
+<div style="text-align: center;">
+    <img src="/images/TSR_results.png" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 3: Pruned TSR Model Experimental Results</em>
+</div>
+
+<div style="text-align: center;">
+    <img src="/images/TD_results.png" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 4: Pruned TD Model Experimental Results</em>
+</div>
+
+<div style="text-align: center;">
+    <img src="/images/Speedup.png" alt="Alternative Text" style="width: 90%;">
+    <br>
+    <em>Figure 5: Model Speedup Measurement</em>
+</div>
+
+Overall, the project successfully built a modular, lightweight pipeline for various table types and domains, significantly advancing the field of table OCR. It laid the groundwork for future research, particularly in improving pre- and post-processing methods and further developing pruning techniques for Transformer-based models.
