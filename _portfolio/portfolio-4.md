@@ -8,12 +8,12 @@ PDF: [Download here](/files/Final_Thesis_Huan_Khoi.pdf)
 
 Keywords: *tensor parallelism, fsdp, megatron-lm, large language model, llama, machine learning*
 
-**"Optimizing the computational efficiency of LLM training and inference through advanced parallelism techniques."**, supervised by Assoc. Prof. Quản Thành Thơ Ph.D. and Mr. Băng Ngọc Bảo Tâm M.Eng., carried out by students Nguyễn Luật Gia Khôi and Phạm Bùi Minh Huân at the Ho Chi Minh City University of Technology. The project addresses the growing need for efficient document digitization, particularly focusing on the extraction of structured table data from PDFs or images into spreadsheets.
+**"Optimizing the computational efficiency of LLM training and inference through advanced parallelism techniques."**, supervised by Prof. Alexander Ilin Ph.D. and Dr. Harri Vapola, conducted at System 2 AI Oy. The project aims to apply advanced parallelism techniques, e.g., Fully Sharded Data Parallel (FSDP), Tensor Parallel (TP), etc. to the training of Large Language Models (LLM), specifically Llama 3 model family.
 
-The core problems tackled include the development of a deep learning system for detecting and recognizing tables in documents and implementing a parameter pruning method for Transformer-based models. This approach significantly reduces the number of parameters without sacrificing model accuracy, leading to a more efficient and effective processing pipeline.
+The core problems tackled include the implementation of tensor parallelism technique introduced in [Megatron-LM](https://arxiv.org/abs/1909.08053) paper
 
 <div style="text-align: center;">
-    <img src="/images/port_1_survey.png" alt="Alternative Text" style="width: 90%;">
+    <img src="/images/megatron-lm.png" alt="Megatron-LM" style="width: 90%;">
     <br>
     <em>Figure 1: Table Extraction Tasks Survey</em>
 </div>

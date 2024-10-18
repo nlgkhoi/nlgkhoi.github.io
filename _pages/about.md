@@ -32,12 +32,12 @@ redirect_from:
 | **Language proficiency**  | C1 English Level |
 
 # 📌 Selected Projects
-<!-- ## Optimizing the computational efficiency of LLM training and inference through advanced parallelism techniques @ System 2 AI Oy, Finland
+## Optimizing the computational efficiency of LLM training and inference through advanced parallelism techniques @ System 2 AI Oy, Finland
 Applying advanced 2D parallelism techniques, i.e., Tensor Parallelism (TP) - FSDP, to train Llama 3 and 3.1 family models on substentially longer sequence length on limited hardware capability.<br/><img src='/images/megatron-lm.png' style='width: 60%;'>
 
 See more: [Here](/portfolio/portfolio-4/)
 
-Keywords: *tensor parallelism, fsdp, megatron-lm, large language model, llama, machine learning* -->
+Keywords: *tensor parallelism, fsdp, megatron-lm, large language model, llama, machine learning*
 
 ## Table OCR pipeline with branching mechanism to handle different types of tabular documents (Capstone Project) @ HCMUT, Vietnam
 An innovative approach to OCR of tables in documents, focusing on Table Detection and Structure Recognition, with the development of a robust Table Extraction Pipeline. Significant progress in Transformer-based model pruning enhances efficiency without compromising accuracy.<br/><img src='/images/port_1_outputs.png' style='width: 60%;'>
