@@ -38,7 +38,7 @@ A standout achievement of this project was the successful implementation of the 
 ## Methods for verifying the correct inference/training computation:
 
 <div style="text-align: center;">
-    <img src="/images/top_k_mae.png" alt="Alternative Text" style="width: 90%;">
+    <img src="/images/top_k_mae.png" alt="Alternative Text" style="width: 60%;">
     <br>
     <em>Figure 2: Token matching percentages and MAE of the output logits of the TP applied model and non-parallel model</em>
 </div>
