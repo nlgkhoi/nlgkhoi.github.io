@@ -33,7 +33,9 @@ redirect_from:
 
 # 📌 Selected Projects
 ## Optimizing the Computational Efficiency of Training and Inference for Large Language Models @ System 2 AI Oy, Finland
-Applying advanced 2D parallelism techniques, i.e., Tensor Parallelism (TP) - FSDP, to train Llama 3 and 3.1 family models on substentially longer sequence length on limited hardware capability.<br/><img src='/images/megatron-lm.png' style='width: 60%;'>
+Applying advanced 2D parallelism techniques, i.e., Tensor Parallelism (TP) - FSDP, to train Llama 3 and 3.1 family models on substentially longer sequence length on limited hardware capability.<br/>
+
+<img src='/images/megatron-lm.png' style='width: 60%;'>
 
 See more: [Here](/portfolio/portfolio-4/)
 

@@ -13,7 +13,7 @@ Keywords: *tensor parallelism, fsdp, megatron-lm, large language model, llama, m
 The core problems tackled include the implementation of the tensor parallelism technique introduced in the [Megatron-LM](https://arxiv.org/abs/1909.08053) paper, using native PyTorch tensor parallel support instead of relying on external libraries, e.g., `accelerate` by Huggingface, which is not currently supported. Another key implementation includes the combination of FSDP and TP to leverage the advantages of both methods combinatorially.
 
 <div style="text-align: center;">
-    <img src="/images/megatron-lm.png" alt="Tensor Parallel Paradigm in main Transformer components" style="width: 90%;">
+    <img src="/images/megatron-lm.png" alt="Tensor Parallel Paradigm in main Transformer components" style="width: 70%;">
     <br>
     <em>Figure 1: Tensor Parallel paradigm in main Transformer components</em>
 </div>
