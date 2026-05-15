@@ -15,7 +15,7 @@ redirect_from:
         🧑‍🎓 Bachelor in Computer Science @ Ho Chi Minh City University of Technology, Vietnam — Top-2 graduate of the 2019-2023 cohort<br><br>
         💼 Former AI Engineer @ Quy Nhon AI Research and Application Center (FPT Software), Vietnam<br><br>
         🦾 My interest lies in Large Language Models, continual learning, distributed training, and the engineering frontier of LLM systems<br><br>
-        🎼 I write music in my free-time. My genres are Rap and R&B.<br><br>
+        🏃 In my free-time, I run, lift weights, and follow the stock market.<br><br>
         📖 "Embracing Kaizen mindset in every aspect of life"<br><br>
     </div>
     <div>
