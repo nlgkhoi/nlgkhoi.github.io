@@ -13,10 +13,18 @@ Education
 ======
 - B.S. in Computer Science, Ho Chi Minh City University of Technology, Vietnam, Aug 2023
   - Ranking: Excellence - GPA: 9.09/10
-- Double Degree Master's in Data Science, Aalto University - University of Twente, Aug 2023 - Recent
+  - Top-2 graduate of the 2019-2023 cohort
+- Double Degree M.S. in Data Science, Aalto University (Finland) and University of Twente (Netherlands), 2023 - 2025
+  - Graduated with honours - GPA: 4.41/5
+- EIT Digital Summer School (TechFin), Madrid, Jul 2024
 
 Work Experience
 ======
+- AI Engineer, System 2 AI, Helsinki, Finland, Apr 2025 - Present
+  - Compute-infrastructure lead: multi-node LLM training (SLURM / NCCL / FSDP + tensor parallelism) and vLLM-based serving on LUMI (CSC), supporting the five-person research team
+  - Built a custom training/serving container that tracks the latest vLLM release, enabling same-day support for new model launches and delivering a 2-3x speedup in inference and training
+  - Brought up large open-weights foundation models with aggressive multi-node serving — Kimi K2.6 and Qwen3.5-397B at usable speed on just two LUMI nodes
+  - Method co-author on *Targeted-Edit Supervision* (submitted to NeurIPS 2026, under review)
 - Artificial Intelligence Engineer, Quy Nhon AI Research and Application Center (FPT Software Quy Nhon), Nov 2021 - Jun 2023
   - Developing core models for an AI platform, namely akaOCR
   - Collecting and pre-processing training data
@@ -28,12 +36,13 @@ Work Experience
 
 Skills
 ======
-- Programming Languages: Python, C++
+- Programming Languages: Python (Advanced), C++ (Intermediate)
 - Frameworks: PyTorch, Tensorflow, Flask, Django
 - Libraries: NumPy, Pandas, OpenCV, Pillow
-- Cloud: AWS EC2, AWS S3
-- Others: Docker, RabbitMQ, CI/CD pipeline
-- Language Proficiency: C1 English Level
+- LLM / Distributed Training: vLLM, FSDP, Tensor Parallelism (Megatron-LM), multi-node SLURM / NCCL, custom container builds
+- Cloud / HPC: LUMI (CSC), AWS EC2, AWS S3
+- Others: Docker, RabbitMQ, Kafka, CI/CD pipeline, Shell scripting
+- Language Proficiency: C1 English Level; native Vietnamese
 
 Publications
 ======

@@ -9,10 +9,12 @@ redirect_from:
 ---
 <div style="display: flex; align-items: start; margin: 20px;">
     <div style="flex-grow: 1; padding-right: 40px; line-height: 1.6;">
-        💻 I'm currently a 2nd year Data Science Master's student @ Aalto University, Finland and University of Twente, Netherlands<br><br>
-        🧑‍🎓 I received my Bachelor Degree in Computer Science @ Ho Chi Minh City University of Technology, Vietnam<br><br>
-        💼 Former AI Engineer @ Quy Nhon AI Research and Application Center, Vietnam<br><br>
-        🦾 My interest lies in Large Language Models, Computer Vision, Natural Language Processing, and Ethical AI<br><br>
+        💼 AI Engineer @ System 2 AI, Finland — building compute infrastructure for continual-learning LLM agents on LUMI<br><br>
+        ✍️ Method co-author on <em>Targeted-Edit Supervision</em>, submitted to NeurIPS 2026 (under review)<br><br>
+        🧑‍🎓 Double-Degree MSc in Data Science @ Aalto University (Finland) and University of Twente (Netherlands), graduated with honours, 2025<br><br>
+        🧑‍🎓 Bachelor in Computer Science @ Ho Chi Minh City University of Technology, Vietnam — Top-2 graduate of the 2019-2023 cohort<br><br>
+        💼 Former AI Engineer @ Quy Nhon AI Research and Application Center (FPT Software), Vietnam<br><br>
+        🦾 My interest lies in Large Language Models, continual learning, distributed training, and the engineering frontier of LLM systems<br><br>
         🎼 I write music in my free-time. My genres are Rap and R&B.<br><br>
         📖 "Embracing Kaizen mindset in every aspect of life"<br><br>
     </div>
@@ -32,7 +34,17 @@ redirect_from:
 | **Language proficiency**  | C1 English Level |
 
 # 📌 Selected Projects
-## Optimizing the Computational Efficiency of Training and Inference for Large Language Models @ System 2 AI Oy, Finland
+## Multi-Node LLM Training & Serving Infrastructure on LUMI @ System 2 AI, Finland
+As compute-infrastructure lead at System 2 AI, I own the multi-node training and serving stack on the LUMI (CSC) supercomputer — SLURM / NCCL / FSDP + tensor parallelism for training, vLLM-based serving with a custom container that tracks the latest vLLM release and delivers a 2–3× speedup over stock images. Recent wins include bringing up Kimi K2.6 and Qwen3.5-397B on just two LUMI nodes; the 397B model sustains roughly 50% of a single-node Qwen3-32B's throughput while being ~12× larger.<br/>
+
+Keywords: *llm, distributed training, fsdp, tensor parallelism, vllm, lumi, multi-node serving, continual learning*
+
+## Targeted-Edit Supervision (NeurIPS 2026 submission, under review) @ System 2 AI, Finland
+A new method for supervised knowledge editing in LLMs. I authored the method — designed and ran the first proof-of-concept experiment that seeded the technique later developed into the submitted paper — and implemented the training pipeline on top of S2's multi-node LUMI infrastructure.<br/>
+
+Keywords: *knowledge editing, supervised fine-tuning, llm, continual learning*
+
+## Optimizing the Computational Efficiency of Training and Inference for Large Language Models @ System 2 AI Oy, Finland (MSc Thesis)
 Applying advanced 2D parallelism techniques, i.e., Tensor Parallelism (TP) - FSDP, to train Llama 3 and 3.1 family models on substentially longer sequence length on limited hardware capability.<br/>
 
 <img src='/images/megatron-lm.png' style='width: 60%;'>
@@ -63,6 +75,14 @@ See more: [Here](/portfolio/portfolio-3/)
 Keywords: *watermark removal, autoencoder, data augmentation, computer vision, machine learning*
 
 # 👔 Professional Experience
+## 🧪 AI Engineer
+**System 2 AI**  
+_Apr 2025 - Present, Helsinki, Finland_
+- Compute-infrastructure lead for S2's continual-learning research stack on LUMI (CSC): multi-node LLM training (SLURM / NCCL / FSDP + tensor parallelism) and vLLM-based serving, supporting the five-person research team.
+- Built a custom training/serving container that tracks the latest vLLM release, enabling same-day support for new model launches and delivering a 2–3× speedup in inference and training.
+- Brought up large open-weights foundation models with aggressive multi-node serving — including Kimi K2.6 and Qwen3.5-397B at usable speed on just two LUMI nodes.
+- Method co-author on *Targeted-Edit Supervision* (submitted to NeurIPS 2026, under review): designed and ran the first proof-of-concept experiment that seeded the technique developed into the submitted paper.
+
 ## 🤖 Artificial Intelligence Engineer
 **Quy Nhon AI Research and Application Center (FPT Software Quy Nhon)**  
 _Nov 2021 - Jun 2023, Quy Nhon, Vietnam_
